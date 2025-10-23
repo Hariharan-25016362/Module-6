@@ -142,7 +142,7 @@ for obj in [obj_goldfish, obj_hammer]:
 ```
 
 ## OUTPUT
-![alt text](image-2.png)
+![alt text](image-4.png)
 
 ## RESULT
 ```
